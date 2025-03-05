@@ -3,7 +3,7 @@
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 [![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
-# Todo APP
+# UFO
 
 _website design project_
 
@@ -13,21 +13,14 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://
+Site published at: https://front-end-by-rimantas.github.io/54-grupe-ufo
 
-Design: _none_
+Design: https://dribbble.com/shots/2815937-404-page
 
 ## 🎯 Project features/goals
 
 - Github pages
-- icons (FontAwesome, ReactIcons)
-- Favicon
-- responsive design
-- DOM (document object model)
-- Google Fonts
-- OOP (Object Oriented Programming)
-- localStorage
-- JS event listeners
+- big screen only (no responsive design)
 
 ## 🧰 Getting Started
 
@@ -51,7 +44,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/
+   git clone https://github.com/front-end-by-rimantas/54-grupe-ufo.git
    ```
 2. Install NPM packages
    ```sh
@@ -72,7 +65,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Tadas: [Github](https://github.com/)
+Rimantas: [Github](https://github.com/belauzas)
 
 ## ⚠️ License
 
