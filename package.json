@@ -1,16 +1,17 @@
 {
-  "dependencies": {
-    "dead-server": "^1.0.9"
-  },
   "name": "ufo",
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
+    "dev": "dead-server --host=localhost --port=5404",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "dead-server": "^1.0.9"
+  }
 }
